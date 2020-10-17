@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### I am Xavier
 
+![GitHub User's stars](https://img.shields.io/github/stars/xk2800?style=social)
+
 
 <!--
 **xk2800/xk2800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
