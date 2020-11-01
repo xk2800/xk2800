@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Xavier
 
-![GitHub User's stars](https://img.shields.io/github/stars/xk2800?style=social)
+<!--![GitHub User's stars](https://img.shields.io/github/stars/xk2800?style=social)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xk2800&layout=compact)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xk2800&show_icons=true&theme=cobalt)
 
