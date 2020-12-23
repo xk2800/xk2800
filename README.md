@@ -4,8 +4,8 @@
 <!--![GitHub User's stars](https://img.shields.io/github/stars/xk2800?style=social)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xk2800&layout=compact)
 <br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xk2800&show_icons=true&theme=cobalt)
-
+<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xk2800&show_icons=true&theme=cobalt)
+-->
 <!--![GitHub metrics](https://metrics.lecoq.io/xk2800)-->
 
 <!-->
