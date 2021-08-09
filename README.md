@@ -18,3 +18,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xk2800&show_icons=true&locale=en" alt="xk2800" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xk2800&" alt="xk2800" /></p>
+
+
+[![Spotify](https://novatorem-xk2800.vercel.app/api/spotify)](https://open.spotify.com/user/beje8u0izd2k3rlvor7u5fp5s)
+
+
