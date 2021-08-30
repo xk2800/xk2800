@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xk2800&label=Profile%20views&color=0e75b6&style=flat" alt="xk2800" /> </p>
 
-- 🌱 I’m currently learning **FARM & MERN Tech Stacks**
+- 🌱 I’m currently learning **Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
