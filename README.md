@@ -20,7 +20,7 @@
 <!-- p>[![Spotify](https://novatorem-xk2800.vercel.app/api/spotify)](https://open.spotify.com/user/beje8u0izd2k3rlvor7u5fp5s)</p-->
 
 # 💫 About Me:
-<!--p> 🔭 I’m currently working on<br ></p-->
+🔭 I’m currently slowly working on my own SASS product<br >
 👯 I’m looking to collaborate on web development work<br >
 <!--p>🤝 I’m looking for help with<br ></p-->
 🌱 I’m currently learning React Native<br >
